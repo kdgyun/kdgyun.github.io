@@ -165,7 +165,7 @@ content:
 
           † <i>A paper resulting from mentoring undergraduate researchers.</i>
 
-  - title: <b>Experience</b>
+  - title: <b>Experiences</b>
     layout: list
     content:
       - layout: left
@@ -214,7 +214,7 @@ content:
           * Published one paper on coding platform design (ACK 2022) and presented as a school representative project at the Gangwon Regional University National Center of Excellence in Software Collaboration Workshop.
           * Selected as an excellent school representative project at the 2022 SW Festival, with booth operation and project presentation.
 
-  - title: <b>Awards amd Honors</b>
+  - title: <b>Awards and Honors</b>
     layout: text
     content: |
       <h4><b>2023</b></h4> <br>
@@ -247,7 +247,7 @@ content:
         description: |
           * <b>Programming Languages:</b> Python, Java, Go
           * <b>DevOps & Frameworks:</b> Kubernetes, Docker, Prometheus, Git & Github, Django, FastAPI, Vue.js, PostgreSQL
-          * <b>Others:</b> On-premises Cluster Built, VPN, Cloud(AWS, GCP, Tencent), Unix/Linux, Figma
+          * <b>Others:</b> On-premise Cluster Building, VPN, Cloud(AWS, GCP, Tencent), Unix/Linux, Figma
 
       - layout: left
         title: | 
