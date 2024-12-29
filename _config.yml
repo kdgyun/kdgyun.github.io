@@ -17,6 +17,8 @@ email_title: Email
 website: https://st-lab.tistory.com
 website_title: Blog
 
+website2: https://ds.korea.ac.kr
+website_title2: Laboratory
 # Dark Mode (true/false/never)
 darkmode: false
 
@@ -218,25 +220,25 @@ content:
     layout: text
     content: |
       <h4><b>2023</b></h4> <br>
-      <span style="float: left; width:250px;">2023.02</span><span><b>Merit Award</b> / Hallym University Graduation Award</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2023.02</span><span><b>Merit Award</b> / Hallym University Graduation Award</span><span style="float:right">Hallym University, Korea</span> <br>
 
       <h4><b><div style="margin-top:45px;">2022</div></b></h4> <br>
-      <span style="float: left; width:250px;">2022.12</span><span><b>SW Scholarship (Competitions and Contests)</b> / Participated in SW Festival and Workshop</span><span style="float:right">Hallym University, Korea</span> <br>
-      <span style="float: left; width:250px;">2022.12</span><span><b>SW Scholarship (On-campus)</b> / Excellence in Participation in SW Programs</span><span style="float:right">Hallym University, Korea</span> <br>
-      <span style="float: left; width:250px;">2022.12</span><span><b>Excellent Work</b> / 2022 SW Festival</span><span style="float:right;text-align: right;">National Program of<br> Excellence in Software</span> <br>
+      <span style="float: left; width:230px;">2022.12</span><span><b>SW Scholarship (Competitions and Contests)</b> / Participated in SW Festival and Workshop</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2022.12</span><span><b>SW Scholarship (On-campus)</b> / Excellence in Participation in SW Programs</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2022.12</span><span><b>Excellent Work</b> / 2022 SW Festival</span><span style="float:right;text-align: right;">National Program of<br> Excellence in Software</span> <br>
       <div style="height:25px;"></div>
-      <span style="float: left; width:250px;">2022.10</span><span><b>3<sup>rd</sup> Place</b> / SW Open-Source Programming Challenge Hackathon</span><span style="float:right">Hallym University, Korea</span> <br>
-      <span style="float: left; width:250px;">2022.07</span><span><b>Dean's List</b> / Academic Excellence in the 1<sup>st</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2022.10</span><span><b>3<sup>rd</sup> Place</b> / SW Open-Source Programming Challenge Hackathon</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2022.07</span><span><b>Dean's List</b> / Academic Excellence in the 1<sup>st</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
 
       <h4><b><div style="margin-top:45px;">2021</div></b></h4> <br>
-      <span style="float: left; width:250px;">2021.07</span><span><b>Dean's List</b> / Academic Excellence in the 2<sup>nd</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2021.07</span><span><b>Dean's List</b> / Academic Excellence in the 2<sup>nd</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
 
       <h4><b><div style="margin-top:45px;">2019</div></b></h4> <br>
-      <span style="float: left; width:250px;">2019.12</span><span><b>Dean's List and Academic Excellence Scholarship</b> / Academic Excellence in the 2<sup>nd</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
-      <span style="float: left; width:250px;">2019.12</span><span><b>SW Scholarship (On-campus)</b> / Excellence in Participation in SW Programs</span><span style="float:right">Hallym University, Korea</span> <br>
-      <span style="float: left; width:250px;">2019.11</span><span><b>3<sup>rd</sup> Place</b> / SW Open-Source Programming Challenge Hackathon</span><span style="float:right">Hallym University, Korea</span> <br>
-      <span style="float: left; width:250px;">2019.07</span><span><b>Ilsong(일송) Scholarship</b> / Best Academic Performance in the 1<sup>st</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
-      <span style="float: left; width:250px;">2019.07</span><span><b>Dean's List and Academic Excellence Scholarship</b> / Best Academic Performance in the 1<sup>st</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2019.12</span><span><b>Dean's List and Academic Excellence Scholarship</b> / Academic Excellence in the 2<sup>nd</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2019.12</span><span><b>SW Scholarship (On-campus)</b> / Excellence in Participation in SW Programs</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2019.11</span><span><b>3<sup>rd</sup> Place</b> / SW Open-Source Programming Challenge Hackathon</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2019.07</span><span><b>Ilsong(일송) Scholarship</b> / Best Academic Performance in the 1<sup>st</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
+      <span style="float: left; width:230px;">2019.07</span><span><b>Dean's List and Academic Excellence Scholarship</b> / Best Academic Performance in the 1<sup>st</sup> Semester</span><span style="float:right">Hallym University, Korea</span> <br>
 
   - title: <b>Skills and Techniques</b>
     layout: list
@@ -266,11 +268,11 @@ content:
         # quote: >
         #   정보대학 컴퓨터학과
         description: |
-          Master of Science in Computer Science and Engineering <br>
-          Thesis: <i>CLEAR-HPA: Co-optimizing Latency and Efficient Allocation of Resources for Horizontal Pod Autoscaling in Kubernetes Cluster</i> <br>
-          Laboratory: Distributed and Cloud Computing <br>
-          Advisor: Prof. Heonchang Yu<br>
-          GPA: 4.11 / 4.5
+          * Master of Science in Computer Science and Engineering
+          * Thesis: <i>CLEAR-HPA: Co-optimizing Latency and Efficient Allocation of Resources for Horizontal Pod Autoscaling in Kubernetes Cluster</i>
+          * Laboratory: Distributed and Cloud Computing
+          * Advisor: Prof. Heonchang Yu
+          * GPA: 4.11 / 4.5
         link: https://ds.korea.ac.kr/
 
       - layout: left
@@ -278,9 +280,9 @@ content:
         sub_title: 2016.3 - 2023.02
         caption: Bachelor
         description: |
-          Bachelor of Engineering in Computer Engineering <br>
-          Awarded for Outstanding Achievement: Merit Award <br>
-          GPA: 3.74 / 4.5
+          * Bachelor of Engineering in Computer Engineering
+          * Awarded for Outstanding Achievement: Merit Award
+          * GPA: 3.74 / 4.5
 
   - title: <b>Blog</b>
     layout: list
