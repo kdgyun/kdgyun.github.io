@@ -74,6 +74,7 @@ content:
           * Addresses the cost issues of over-provisioning and user experience degradation caused by under-provisioning in static scalers.
           * Recognized as a Distinguished Paper at an SCIE-compatible Top-tier Conference (NRF-1 recognized by the National Research Foundation of Korea).
           * Patent application (No.10-2024-0128875) filed and software copyright (C-2024-043831) officially registered.
+          * Development of service containers based on Kubernetes, Docker, and Python
 
       - title: k8s-cluster-bootstrap
         link: https://github.com/kdgyun/k8s-cluster-bootstrap
@@ -82,6 +83,7 @@ content:
           * A development project for quickly and easily building Kubernetes clusters with a single command in an Ubuntu environment.
           * Open-source project supporting Kubernetes versions from 1.24.15 to 1.31.2.
           * Developed to simplify the installation process by addressing the complexities caused by dependencies such as kernel versions, container runtimes, and CNIs in the official Kubernetes documentation.
+          * Development of Shell Script bootstrap based on Ubuntu OS
 
       - title: KUCODE
         link: https://github.com/KU-CODE-OSS/KUCODE
@@ -100,6 +102,7 @@ content:
           * Designed to provide a variety of algorithm and coding problems, enabling a range of services from basic problem-solving to tailored solutions for individual service models.
           * Simplified the development-build-deployment process using Docker for kickstart environments.
           * Recognized as an excellent work representing the school at the 2022 SW Festival.
+          * Development of microservice-based web services integrated with open-source technologies using Django, Vue.js, Less, and PostgreSQL, and founder of a startup.
 
   - title: <b>Research Projects</b>
     layout: list
