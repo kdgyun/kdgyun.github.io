@@ -177,7 +177,7 @@ content:
         title: Research Student
         sub_title: |
           <i>Distributed and Cloud Computing Laboratory</i>
-        caption: 2023.01 - Present
+        caption: 2023.01 - 2025.02
         description: |
           * Research on co-optimizing resource allocation and service latency in distributed cloud environments.
           * AI-based application scaling and scheduling research in containerized virtualization environments.
@@ -188,7 +188,7 @@ content:
         title: Undergraduate Research Assistant Mentor
         sub_title: |
           <i>Distributed and Cloud Computing Laboratory</i>
-        caption: 2024.04 - Present
+        caption: 2024.04 - 2025.02
         description: |
           * Mentored 4 undergraduate researchers.
           * Provided research guidance on container-based resource management and performance optimization.
@@ -198,7 +198,7 @@ content:
       - layout: left
         title: Teaching Assistant
         sub_title: <i>Korea University</i>
-        caption: 2024.03 - Present
+        caption: 2024.03 - 2025.02
         description: |
           * Data Science and Artificial Intelligence <span style="float: right"><i>Fall 2024</i></span>
           * SW Programming Basics <span style="float: right"><i>Spring 2024</i></span>
@@ -266,7 +266,7 @@ content:
     layout: list
     content:
       - title: Korea University
-        sub_title: Mar. 2023 - Feb. 2025 (Expected)
+        sub_title: Mar. 2023 - Feb. 2025
         caption: Master Student
         # quote: >
         #   정보대학 컴퓨터학과
